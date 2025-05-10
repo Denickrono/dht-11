@@ -26,6 +26,5 @@ void loop() {
  Serial.print("Temperature is");
  Serial.print(t);
  
- //huiujn,mlcd.print("f");
  }
 }
